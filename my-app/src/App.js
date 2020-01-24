@@ -7,7 +7,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <UserForm species="tiger" size="small"/>
+      <UserForm />
     </div>
   );
 }
